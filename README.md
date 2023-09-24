@@ -1,1 +1,1 @@
-# Scraping Wikipedia Using Seleniuim in Python
+# Scraping Wikipedia Using Selenium in Python
