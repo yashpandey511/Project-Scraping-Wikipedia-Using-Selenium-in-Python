@@ -38,5 +38,6 @@ Wikipedia uses a citation format with the superscript numbers referencing the so
 Fetch all the hyperlinks that occur inside the <p>...</p> tags using nested CSS selectors.
 Create a Python dictionary with hyperlink texts as keys and the URL they point to as values.
 Print this dictionary on the terminal using the get_attribute method to fetch the URLs of the hyperlinks.
+
 Conclusion
 This project showcases how to use Selenium to scrape data from a website. It covers various Selenium commands and events to automate the processes on the website and how to clean the text data using regex library.
