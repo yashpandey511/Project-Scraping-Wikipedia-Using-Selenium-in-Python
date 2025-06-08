@@ -1,8 +1,11 @@
-Web Scraping Using Selenium in Python
-Project Description
+**Web Scraping Using Selenium in Python**
+
+Project Description:
+
 This project involves web scraping data from Wikipedia, the fastest growing free online encyclopedia using the Selenium library in Python. The project demonstrates how to use various Selenium commands to fetch HTML elements such as CSS class names, CSS IDs, HTML tag names, Link texts, Texts, Nested CSS selectors, and Attributes. It also covers how to use multiple Selenium events to automate processes on the website and how to clean the text data using regex library.
 
 Steps
+
 1. Import Libraries
 Import the following libraries: Options, By, webdriver, and Service from the Selenium package.
 Import ChromeDriverManager from the webdriver_manager package.
@@ -35,5 +38,6 @@ Wikipedia uses a citation format with the superscript numbers referencing the so
 Fetch all the hyperlinks that occur inside the <p>...</p> tags using nested CSS selectors.
 Create a Python dictionary with hyperlink texts as keys and the URL they point to as values.
 Print this dictionary on the terminal using the get_attribute method to fetch the URLs of the hyperlinks.
+
 Conclusion
 This project showcases how to use Selenium to scrape data from a website. It covers various Selenium commands and events to automate the processes on the website and how to clean the text data using regex library.
