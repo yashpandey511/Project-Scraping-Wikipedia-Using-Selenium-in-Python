@@ -42,3 +42,4 @@ for elem in elems:
     list_dict[elem.text] = elem.get_attribute('href')
 
 print(list_dict)
+
